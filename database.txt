@@ -1,0 +1,12 @@
+CREATE DATABASE reportdb;
+
+CREATE TABLE `csvtbl` (
+ `enddate` varchar(32) NOT NULL,
+ `num` varchar(32) NOT NULL,
+ `status` varchar(32) NOT NULL
+);
+
+
+CREATE TABLE `newcsvtbl` (
+ `destination` varchar(32) NOT NULL
+) ;
