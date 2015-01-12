@@ -1,0 +1,28 @@
+#gen{
+
+width:350px;
+height: 200px;
+border:1px solid black;
+margin-top:100px;
+background-color: #FAF0E6;
+}
+
+
+th{
+
+	background-color: #E0E0E0 ;
+}
+
+#theform{
+
+
+width:280px;
+height: 150px;
+border:1px solid black;
+margin-top:70px;
+margin-left: 500px;
+background-color: #FAF0E6;
+padding-left: 60px;
+padding-top: 10px;
+
+}
